@@ -1,0 +1,4 @@
+pyautogui
+os
+smtplib
+ssl
