@@ -2,3 +2,5 @@ pyautogui
 os
 smtplib
 ssl
+pynput
+threading
